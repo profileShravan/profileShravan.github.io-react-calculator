@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/profileShravan.github.io-react-calculator/static/css/main.0a427ffe.css",
+    "main.js": "/profileShravan.github.io-react-calculator/static/js/main.5476f581.js",
+    "index.html": "/profileShravan.github.io-react-calculator/index.html",
+    "main.0a427ffe.css.map": "/profileShravan.github.io-react-calculator/static/css/main.0a427ffe.css.map",
+    "main.5476f581.js.map": "/profileShravan.github.io-react-calculator/static/js/main.5476f581.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a427ffe.css",
+    "static/js/main.5476f581.js"
+  ]
+}
